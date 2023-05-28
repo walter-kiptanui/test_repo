@@ -1,0 +1,7 @@
+<HTML> <HEAD> <TITLE>POST Request Demo</TITLE> </HEAD>
+<BODY> <CENTER> <B>LED Status=@@LEDState@@</B> </CENTER>
+<FORM method="POST" action="/"> <BUTTON name="LED"
+value="1">ON</BUTTON> <BUTTON name="LED"
+value="0">OFF</BUTTON> </FORM> <marquee
+behavior="alternate">NodeMCU ESP8266 Communication Methods and
+Protocols</marquee> </BODY> </HTML> )
